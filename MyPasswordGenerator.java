@@ -253,6 +253,7 @@ public class MyPasswordGenerator extends SimplePasswordGenerator {
         return passwordBuilder(randomLetters, randomNumbers, randomSpecialCharacters);
     }
 
+    // Simple test main. More coming soon...
     public static void main(String[] args) {
         MyPasswordGenerator generator = new MyPasswordGenerator();
         long start = System.currentTimeMillis();
