@@ -7,5 +7,5 @@
 * [Quick-Sort](https://www.geeksforgeeks.org/quick-sort-algorithm/)
 
 # Creating Your Own Password
-Simple go to the MyPasswordGenerator.java file, locate the main at the bottom of the code, and replace the parameters (numLetters, numInts, and numSpecChars) with your desired amount from each category and hit enter! This will generate a password for you in <20ms!
+Simply go to the MyPasswordGenerator.java file, locate the main at the bottom of the code, and replace the parameters (numLetters, numInts, and numSpecChars) with your desired amount from each category and hit enter! This will generate a password for you in <20ms!
 <img width="786" alt="Screen Shot 2024-07-20 at 12 38 56 PM" src="https://github.com/user-attachments/assets/c59c9c4f-7e13-4407-b518-3e330c6d330e">
